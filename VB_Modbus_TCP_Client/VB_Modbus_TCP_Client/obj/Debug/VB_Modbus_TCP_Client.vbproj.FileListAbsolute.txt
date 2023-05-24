@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\VB_Modbus_TCP_Client\VB_Modbus_TCP_Client\bin\Debug\VB_Modbus_TCP_Client.exe.config
+C:\Users\User\source\repos\VB_Modbus_TCP_Client\VB_Modbus_TCP_Client\bin\Debug\VB_Modbus_TCP_Client.exe
+C:\Users\User\source\repos\VB_Modbus_TCP_Client\VB_Modbus_TCP_Client\bin\Debug\VB_Modbus_TCP_Client.pdb
+C:\Users\User\source\repos\VB_Modbus_TCP_Client\VB_Modbus_TCP_Client\bin\Debug\VB_Modbus_TCP_Client.xml
+C:\Users\User\source\repos\VB_Modbus_TCP_Client\VB_Modbus_TCP_Client\obj\Debug\VB_Modbus_TCP_Client.vbproj.AssemblyReference.cache
+C:\Users\User\source\repos\VB_Modbus_TCP_Client\VB_Modbus_TCP_Client\obj\Debug\VB_Modbus_TCP_Client.vbproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\VB_Modbus_TCP_Client\VB_Modbus_TCP_Client\obj\Debug\VB_Modbus_TCP_Client.Resources.resources
+C:\Users\User\source\repos\VB_Modbus_TCP_Client\VB_Modbus_TCP_Client\obj\Debug\VB_Modbus_TCP_Client.vbproj.GenerateResource.cache
+C:\Users\User\source\repos\VB_Modbus_TCP_Client\VB_Modbus_TCP_Client\obj\Debug\VB_Modbus_TCP_Client.vbproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\VB_Modbus_TCP_Client\VB_Modbus_TCP_Client\obj\Debug\VB_Modbus_TCP_Client.exe
+C:\Users\User\source\repos\VB_Modbus_TCP_Client\VB_Modbus_TCP_Client\obj\Debug\VB_Modbus_TCP_Client.xml
+C:\Users\User\source\repos\VB_Modbus_TCP_Client\VB_Modbus_TCP_Client\obj\Debug\VB_Modbus_TCP_Client.pdb
+C:\Users\User\source\repos\VB_Modbus_TCP_Client\VB_Modbus_TCP_Client\bin\Debug\EasyModbus.dll
+C:\Users\User\source\repos\VB_Modbus_TCP_Client\VB_Modbus_TCP_Client\bin\Debug\EasyModbus.xml
+C:\Users\User\source\repos\VB_Modbus_TCP_Client\VB_Modbus_TCP_Client\obj\Debug\VB_Modbus_TCP_Client.vbproj.CopyComplete
+C:\Users\User\source\repos\VB_Modbus_TCP_Client\VB_Modbus_TCP_Client\obj\Debug\VB_Modbus_TCP_Client.Form1.resources
